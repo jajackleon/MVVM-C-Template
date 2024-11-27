@@ -1,0 +1,20 @@
+PODS:
+  - Factory (2.1.5)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Factory (~> 2.1.4)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Factory
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Factory: a5a670cdc35c19a8c08bfaca50c8e8ff5ee7cc0d
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 6ab372d681d85f3926199c18de8b0a4f203fa15f
+
+COCOAPODS: 1.16.2
